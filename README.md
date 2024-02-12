@@ -7,12 +7,6 @@
 - Easy to deploy
 - Powered By Blazing Fast [AnimeDexApi](https://api.anime-dex.workers.dev)
 
-## Demo
-
-- https://animedex.pages.dev
-- https://animedex-lite.netlify.app
-- https://techshreyash.github.io/AnimeDexLite
-- https://animedexlite.vercel.app
 
 ## Host Your Own (Free Hostings)
 
